@@ -1,0 +1,225 @@
+[11-Mar-2019 23:47:24 America/New_York] PHP Warning:  include(other/connect.php): failed to open stream: No such file or directory in /home/fumipkfg/public_html/items/plum.php on line 5
+[11-Mar-2019 23:47:24 America/New_York] PHP Warning:  include(): Failed opening 'other/connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fumipkfg/public_html/items/plum.php on line 5
+[11-Mar-2019 23:47:24 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 50
+[11-Mar-2019 23:50:20 America/New_York] PHP Warning:  include(other/connect.php): failed to open stream: No such file or directory in /home/fumipkfg/public_html/items/plum.php on line 5
+[11-Mar-2019 23:50:20 America/New_York] PHP Warning:  include(): Failed opening 'other/connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fumipkfg/public_html/items/plum.php on line 5
+[11-Mar-2019 23:50:20 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 56
+[11-Mar-2019 23:50:33 America/New_York] PHP Warning:  include(other/connect.php): failed to open stream: No such file or directory in /home/fumipkfg/public_html/items/plum.php on line 5
+[11-Mar-2019 23:50:33 America/New_York] PHP Warning:  include(): Failed opening 'other/connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fumipkfg/public_html/items/plum.php on line 5
+[11-Mar-2019 23:50:33 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 56
+[12-Mar-2019 00:05:16 America/New_York] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/fumipkfg/public_html/items/plum.php on line 44
+[12-Mar-2019 00:06:53 America/New_York] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/fumipkfg/public_html/items/plum.php on line 44
+[12-Mar-2019 00:07:25 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/fumipkfg/public_html/items/plum.php on line 43
+[12-Mar-2019 00:07:32 America/New_York] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/fumipkfg/public_html/items/plum.php on line 43
+[12-Mar-2019 00:07:34 America/New_York] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/fumipkfg/public_html/items/plum.php on line 43
+[12-Mar-2019 00:07:43 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:07:43 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 47
+[12-Mar-2019 00:07:53 America/New_York] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/fumipkfg/public_html/items/plum.php on line 44
+[12-Mar-2019 00:08:32 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fumipkfg/public_html/items/plum.php on line 43
+[12-Mar-2019 00:09:11 America/New_York] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/fumipkfg/public_html/items/plum.php on line 42
+[12-Mar-2019 00:09:39 America/New_York] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/fumipkfg/public_html/items/plum.php on line 42
+[12-Mar-2019 00:09:52 America/New_York] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/fumipkfg/public_html/items/plum.php on line 42
+[12-Mar-2019 00:10:16 America/New_York] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/fumipkfg/public_html/items/plum.php on line 42
+[12-Mar-2019 00:10:34 America/New_York] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/fumipkfg/public_html/items/plum.php on line 42
+[12-Mar-2019 00:11:42 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:13:33 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:14:12 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:14:13 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:14:24 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:14:24 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 62
+[12-Mar-2019 00:14:31 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:14:31 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 62
+[12-Mar-2019 00:15:07 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:15:31 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:15:31 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 63
+[12-Mar-2019 00:15:40 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:15:48 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:15:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fumipkfg/public_html/items/plum.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/fumipkfg/public_html/items/plum.php on line 41
+[12-Mar-2019 00:16:35 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/fumipkfg/public_html/items/plum.php on line 49
+[12-Mar-2019 00:16:40 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:16:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fumipkfg/public_html/items/plum.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/fumipkfg/public_html/items/plum.php on line 41
+[12-Mar-2019 00:16:43 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:16:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fumipkfg/public_html/items/plum.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/fumipkfg/public_html/items/plum.php on line 41
+[12-Mar-2019 00:16:59 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:16:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fumipkfg/public_html/items/plum.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/fumipkfg/public_html/items/plum.php on line 41
+[12-Mar-2019 00:17:01 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:17:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fumipkfg/public_html/items/plum.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/fumipkfg/public_html/items/plum.php on line 41
+[12-Mar-2019 00:17:07 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:17:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fumipkfg/public_html/items/plum.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/fumipkfg/public_html/items/plum.php on line 41
+[12-Mar-2019 00:17:56 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:17:57 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 65
+[12-Mar-2019 00:18:04 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:18:04 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 65
+[12-Mar-2019 00:18:09 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:18:09 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 65
+[12-Mar-2019 00:19:15 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:19:15 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 65
+[12-Mar-2019 00:19:24 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:19:24 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 65
+[12-Mar-2019 00:19:28 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:19:28 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 65
+[12-Mar-2019 00:19:34 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:19:34 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 65
+[12-Mar-2019 00:19:53 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:19:53 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 65
+[12-Mar-2019 00:20:21 America/New_York] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/fumipkfg/public_html/items/plum.php on line 41
+[12-Mar-2019 00:21:01 America/New_York] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/fumipkfg/public_html/items/plum.php on line 41
+[12-Mar-2019 00:21:21 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:21:21 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 65
+[12-Mar-2019 00:21:29 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:21:29 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 65
+[12-Mar-2019 00:21:36 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:21:36 America/New_York] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/fumipkfg/public_html/items/plum.php on line 41
+[12-Mar-2019 00:22:19 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:22:19 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 65
+[12-Mar-2019 00:22:27 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:22:27 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 65
+[12-Mar-2019 00:22:39 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/fumipkfg/public_html/items/plum.php on line 41
+[12-Mar-2019 00:22:46 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:22:46 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 65
+[12-Mar-2019 00:23:06 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:23:06 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 65
+[12-Mar-2019 00:23:38 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 00:27:12 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 11:18:47 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 11:18:47 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 66
+[12-Mar-2019 11:27:51 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 11:27:51 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 66
+[12-Mar-2019 11:29:13 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 11:29:13 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 66
+[12-Mar-2019 11:29:16 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 11:29:16 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 66
+[12-Mar-2019 11:41:07 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 11:41:07 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 66
+[12-Mar-2019 12:02:10 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 12:02:10 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 66
+[12-Mar-2019 12:03:09 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 12:03:09 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/whitechampignonmushroom.php on line 66
+[12-Mar-2019 12:03:26 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 12:03:26 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/garlic.php on line 66
+[12-Mar-2019 12:03:54 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 12:03:55 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/celandine.php on line 66
+[12-Mar-2019 12:06:37 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 12:06:37 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/jack-o-lanternmushroom.php on line 66
+[12-Mar-2019 12:06:52 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 12:06:52 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/endive.php on line 66
+[12-Mar-2019 12:07:21 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 12:07:21 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/barberry.php on line 66
+[12-Mar-2019 12:07:33 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 12:07:33 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/deadrat.php on line 66
+[12-Mar-2019 12:07:55 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 12:07:55 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/blackberry.php on line 66
+[12-Mar-2019 12:08:06 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 12:08:06 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/rosealcohol.php on line 66
+[12-Mar-2019 12:08:30 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 12:08:30 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/citron.php on line 66
+[12-Mar-2019 12:09:59 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 12:09:59 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/chives.php on line 66
+[12-Mar-2019 12:10:49 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 12:10:49 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/adderstongue.php on line 66
+[12-Mar-2019 12:11:05 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 12:11:05 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/woodfishcharm.php on line 66
+[12-Mar-2019 12:12:02 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 12:12:02 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/canolaflower.php on line 66
+[12-Mar-2019 12:13:14 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 12:13:14 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/geranium.php on line 66
+[12-Mar-2019 13:02:51 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 13:02:52 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 66
+[12-Mar-2019 13:03:18 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 13:03:18 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 66
+[12-Mar-2019 13:39:02 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 13:39:02 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 66
+[12-Mar-2019 13:57:37 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 13:57:37 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/canolaflower.php on line 66
+[12-Mar-2019 15:05:31 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[12-Mar-2019 15:05:31 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 66
+[13-Mar-2019 14:56:47 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[13-Mar-2019 14:56:47 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 66
+[16-Mar-2019 13:44:47 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[16-Mar-2019 13:44:47 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/citron.php on line 66
+[16-Mar-2019 13:44:56 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[16-Mar-2019 13:44:56 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 66
+[16-Mar-2019 13:46:01 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[19-Mar-2019 09:44:47 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[19-Mar-2019 09:44:47 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/endive.php on line 66
+[22-Mar-2019 12:44:45 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[22-Mar-2019 12:44:45 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/woodfishcharm.php on line 66
+[22-Mar-2019 12:44:56 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[22-Mar-2019 12:44:56 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/canolaflower.php on line 66
+[22-Mar-2019 12:45:03 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[22-Mar-2019 12:45:03 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/chives.php on line 66
+[22-Mar-2019 12:45:26 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[22-Mar-2019 12:45:26 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/endive.php on line 66
+[22-Mar-2019 12:45:37 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[22-Mar-2019 12:45:37 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/garlic.php on line 66
+[22-Mar-2019 12:45:49 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[22-Mar-2019 12:45:49 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/deadrat.php on line 66
+[22-Mar-2019 12:45:58 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[22-Mar-2019 12:45:58 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/rosealcohol.php on line 66
+[22-Mar-2019 12:46:19 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[22-Mar-2019 12:46:19 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/barberry.php on line 66
+[22-Mar-2019 12:46:41 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[22-Mar-2019 12:46:41 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/blackberry.php on line 66
+[22-Mar-2019 12:46:58 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[22-Mar-2019 12:46:58 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/citron.php on line 66
+[22-Mar-2019 12:47:06 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[22-Mar-2019 12:47:06 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/celandine.php on line 66
+[24-Mar-2019 16:20:34 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[24-Mar-2019 16:20:34 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 65
+[02-Apr-2019 11:55:19 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[02-Apr-2019 11:55:19 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 65
+[02-Apr-2019 11:55:19 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[02-Apr-2019 11:55:19 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 65
+[02-Apr-2019 11:55:20 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[02-Apr-2019 11:55:20 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 65
+[02-Apr-2019 11:55:20 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[02-Apr-2019 11:55:20 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 65
+[02-Apr-2019 11:55:20 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[02-Apr-2019 11:55:20 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 65
+[02-Apr-2019 11:55:21 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[02-Apr-2019 11:55:21 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 65
+[02-Apr-2019 11:55:23 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[02-Apr-2019 11:55:23 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 65
+[02-Apr-2019 11:55:28 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[02-Apr-2019 12:18:02 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[02-Apr-2019 12:18:02 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/deadrat.php on line 66
+[02-Apr-2019 12:18:04 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[02-Apr-2019 12:19:07 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[02-Apr-2019 12:19:07 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/celandine.php on line 66
+[02-Apr-2019 12:19:18 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[02-Apr-2019 14:39:09 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[02-Apr-2019 14:39:09 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/plum.php on line 65
+[05-Apr-2019 19:13:25 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[05-Apr-2019 19:13:25 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/deadrat.php on line 66
+[05-Apr-2019 19:13:27 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[05-Apr-2019 19:15:03 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[05-Apr-2019 19:15:03 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/barberry.php on line 66
+[05-Apr-2019 19:15:08 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[05-Apr-2019 19:15:14 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[05-Apr-2019 19:16:15 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[05-Apr-2019 19:16:16 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/citron.php on line 66
+[05-Apr-2019 19:16:21 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[11-Apr-2019 15:58:30 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[11-Apr-2019 15:58:30 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/blackberry.php on line 66
+[11-Apr-2019 15:58:35 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[11-Apr-2019 15:59:59 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8
+[11-Apr-2019 15:59:59 America/New_York] PHP Notice:  Undefined variable: userNone in /home/fumipkfg/public_html/items/rosealcohol.php on line 66
+[11-Apr-2019 16:00:05 America/New_York] PHP Notice:  Undefined variable: servername in /home/fumipkfg/public_html/other/connect.php on line 8

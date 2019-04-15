@@ -1,0 +1,1 @@
+var rem = parseFloat(getComputedStyle(document.documentElement).fontSize);
